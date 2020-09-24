@@ -1,0 +1,25 @@
+{
+  "name": "express_tutorials",
+  "version": "1.0.0",
+  "description": "express tutorials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://eusun0830:@dbtjs22eh@github.com/eusun0830/express_tutorials.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "eusun0830",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eusun0830/express_tutorials/issues"
+  },
+  "homepage": "https://github.com/eusun0830/express_tutorials#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

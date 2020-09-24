@@ -1,0 +1,20 @@
+a {
+  text-decoration: none;
+  color: #00B7FF;
+}
+/* container */
+
+/* card */
+
+/* question */
+.question {
+	width: 100%;
+	text-align: center;
+}
+.question-form {
+	min-width: 30rem;
+	display: inline-block;
+	margin: 50px;
+	border: 10px;
+	padding: 30px;
+}
