@@ -1,0 +1,18 @@
+<%- include('./head'); %>
+<%- include('./navbar'); %>
+
+<!-- login form -->
+<div class="div-login-cover">
+	<div class="div-login" align="center">
+		<h1 class="display-4">Login</h1>
+		<form action="/login" method="post">
+			<ul>
+				<li><input type="text" name="use_id" placeholder="ID"></li>
+				<li><input type="password" name="use_pw" placeholder="Password"></li>
+				<li><button type="submit" class="btn btn-primary">Login</button></li>
+			</ul>		
+		</form>	
+	</div>
+</div>
+
+<%- include('./footer'); %>

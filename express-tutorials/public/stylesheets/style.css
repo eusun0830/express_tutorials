@@ -1,10 +1,24 @@
 a {
-  text-decoration: none;
-  color: #00B7FF;
+	text-decoration: none;
+	color: #00B7FF;
 }
-/* container */
 
-/* card */
+ul {
+	list-style: none;
+}
+
+/* login */
+.div-login-cover {
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+	margin: 15px;
+}
+.div-login {
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+}
 
 /* question */
 .question {
